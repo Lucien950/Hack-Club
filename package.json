@@ -1,0 +1,23 @@
+{
+  "name": "Hack-Club",
+  "version": "1.0.0",
+  "description": "This is a ReadMe that someone created 👀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucien950/Hack-Club.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucien950/Hack-Club/issues"
+  },
+  "homepage": "https://github.com/Lucien950/Hack-Club#readme",
+  "dependencies": {
+    "webpack": "^5.24.2"
+  }
+}
