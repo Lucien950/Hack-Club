@@ -1,0 +1,1 @@
+(()=>{console.log("getRides started");const e=e=>new Promise(((o,t)=>{e?setTimeout((()=>{o("✅ Ride Gotten")}),1e3):setTimeout((()=>{o("✅ Ride Denied")}),1e3)}));(async()=>{const o=e(!0),t=e(!0),n=e(!0);return Promise.all([o,t,n])}).then((e=>{console.log("🚗 Rides Gotten"),console.timeLog(),console.log(e)})),console.log("🛑 End of Program"),console.timeLog()})();

@@ -1,4 +1,4 @@
-console.timer()
+console.log("getRides started")
 
 const getRide = (arg)=>{
     return new Promise((resolve, reject) => {
